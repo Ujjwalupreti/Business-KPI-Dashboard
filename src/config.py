@@ -43,3 +43,4 @@ FILL_TBL_HEADER = PatternFill(start_color=ACCENT_BLUE, end_color=ACCENT_BLUE, fi
 # Borders
 THIN_SIDE = Side(border_style="thin", color=BORDER_GRAY)
 CARD_BORDER = Border(top=THIN_SIDE, left=THIN_SIDE, right=THIN_SIDE, bottom=THIN_SIDE)
+

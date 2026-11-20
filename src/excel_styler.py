@@ -19,3 +19,4 @@ def apply_card_borders(worksheet, row_start: int, row_end: int, col_start: str, 
         for c_idx in range(col_idx_start, col_idx_end + 1):
             col_char = chr(c_idx)
             worksheet[f"{col_char}{r}"].border = CARD_BORDER
+

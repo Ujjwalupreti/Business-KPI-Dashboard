@@ -222,3 +222,4 @@ const ChartsComponent = {
     this.chartInstances.plan.update();
   }
 };
+

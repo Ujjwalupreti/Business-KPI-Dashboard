@@ -22,3 +22,4 @@ document.addEventListener("DOMContentLoaded", () => {
   KpiCardsComponent.update(initialData);
   ActionTableComponent.update(initialData);
 });
+

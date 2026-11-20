@@ -38,3 +38,4 @@ def load_and_prepare_data() -> pd.DataFrame:
         lambda r: r["monthly_charge"] if r["churned"] == "Yes" else 0.0, axis=1
     )
     return df
+

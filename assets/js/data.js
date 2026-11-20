@@ -19,3 +19,4 @@ const SUBSCRIBER_DATA = [
   { id: "CUST-1014", gender: "Male", age: 26, tenure: 2, bucket: "0–6m", plan: "Basic", charge: 49.99, contract: "Monthly", tickets: 5, payment: "UPI", churned: "Yes", priority: "Tier 1: Emergency Outreach" },
   { id: "CUST-1015", gender: "Female", age: 43, tenure: 40, bucket: "25m+", plan: "Enterprise", charge: 149.99, contract: "Two-Year", tickets: 1, payment: "Credit Card", churned: "No", priority: "Tier 3: Low Risk / Retained" }
 ];
+

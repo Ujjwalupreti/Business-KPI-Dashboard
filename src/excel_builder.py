@@ -231,3 +231,4 @@ def build_data_sheet(ws, df):
                 cell.number_format = "₹#,##0.00"
 
     auto_fit_columns(ws)
+

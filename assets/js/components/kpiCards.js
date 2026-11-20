@@ -73,3 +73,4 @@ const KpiCardsComponent = {
     document.getElementById("kpiTenureSplit").textContent = `${avgChurnTenure} vs ${avgRetTenure}`;
   }
 };
+
