@@ -8,7 +8,7 @@
 > **Decision Question:** *Which customer groups should a fictional subscription team contact first to reduce avoidable churn?*
 
 ---
-
+ 
 ## 📁 Modular Project Architecture
 
 ```text
